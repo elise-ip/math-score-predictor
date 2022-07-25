@@ -170,6 +170,3 @@ F4 = sum( (BC > 3 & BC < 5 & GPAcalc3 < 0.7) == TRUE)
 F3 = sum( (BC < 4 & GPAcalc3 < 0.7) == TRUE)
 m = matrix( c(A5, A4, A3, B5, B4, B3, C5, C4, C3, D5, D4, D3, F5, F4, F3), nrow=3, ncol=5)
 m
-
-
-
