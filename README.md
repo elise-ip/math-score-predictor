@@ -3,5 +3,3 @@ This project uses regression analysis to predict student grades in one of three 
 
 ### Data
 Data comes from a private university and is unavailable for public view.
-
-### Different
